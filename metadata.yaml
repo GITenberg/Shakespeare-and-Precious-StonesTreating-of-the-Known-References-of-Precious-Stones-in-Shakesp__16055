@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6451'
     url: http://www.gutenberg.org/2009/agents/6451
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16055#Shakespeare-and-Precious-StonesTreating-of-the-Known-References-of-Precious-Stones-in-Shakesp_
 gutenberg_issued: '2005-06-13'
 gutenberg_type: Text
 identifiers:
