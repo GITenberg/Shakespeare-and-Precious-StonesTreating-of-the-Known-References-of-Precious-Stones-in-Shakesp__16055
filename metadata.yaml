@@ -1,0 +1,32 @@
+_repo: Shakespeare-and-Precious-StonesTreating-of-the-Known-References-of-Precious-Stones-in-Shakesp__16055
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kunz, George Frederick
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '6451'
+    url: http://www.gutenberg.org/2009/agents/6451
+description: ''
+gutenberg_issued: '2005-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Knowledge -- Geology'
+- !lcsh 'Precious stones'
+title: 'Shakespeare and Precious Stones
+
+  Treating of the Known References of Precious Stones in Shakespeare''s Works, with
+  Comments as to the Origin of His Material, the Knowledge of the Poet Concerning
+  Precious Stones, and References as to Where the Precious Stones of His Time Came
+  from'
+url: http://www.gutenberg.org/ebooks/16055
